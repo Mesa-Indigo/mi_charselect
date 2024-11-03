@@ -1,0 +1,3 @@
+
+-- debug option
+Debug = true
